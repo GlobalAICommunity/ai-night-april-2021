@@ -15,3 +15,6 @@ Available sizes
  - LinkedIn / Facebook / Twitter Post (1200x628)
  - Meetup (1200x675)
  - Sessionize (1140x315)
+
+## Powerpoint Template
+Coming soon
